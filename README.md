@@ -1,5 +1,6 @@
 # Midi-Monitor
-Su base e-licktronic.com (midilickuino) parte display
-e Atmega328p:Quarzo e due condensatori
+e-licktronic.com (midilickuino) parte display
+
+Classico schema : atmega328p, Quarzo, due condensatori e una resistenza
 
 https://youtu.be/XOlpsVENqh4
